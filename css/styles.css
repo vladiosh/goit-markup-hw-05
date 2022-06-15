@@ -551,6 +551,7 @@ body {
 
 .team-soc-icon {
   fill: var(--background-soc-icon);
+  transition: fill 250ms var(--time-function);
 }
 
 .team-soc-link:hover,
